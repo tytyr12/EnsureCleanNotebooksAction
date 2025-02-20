@@ -1,0 +1,2 @@
+- name: Clean out Cells,output Jupyter Notebooks EnronRepo
+  uses: kennysphan/EnsureCleanNotebooksAction@ver1
